@@ -273,6 +273,7 @@ Awesome Mac
 
 ### 저널링
 
+* [Daime](https://github.com/timurverevkin/Daime) - 변형되는 캐릭터로 하루의 기분을 기록하고 감정 단어, 활동, 연간 픽셀 보기를 지원하는 로컬 우선 기분 일기. [![Open-Source Software][OSS Icon]](https://github.com/timurverevkin/Daime) ![Freeware][Freeware Icon]
 * [Day One](https://dayoneapp.com/) - 텍스트, 사진, 비디오 등을 사용하는 훌륭한 저널링 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?platform=mac)
 * [Journey](https://journey.cloud/) - 모든 플랫폼에서 사용 가능한 기능이 풍부한 저널링 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543?platform=mac)
 * [Life Note](https://mylifenote.ai) - 인류 역사상 가장 위대한 정신들과 대화하는 저널. ![Freeware][Freeware Icon]

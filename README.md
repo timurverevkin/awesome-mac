@@ -300,6 +300,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Journaling
 
+* [Daime](https://github.com/timurverevkin/Daime) - Local-first mood journal where a morphing blob marks each day, with feeling words, activities, and a year in pixels. [![Open-Source Software][OSS Icon]](https://github.com/timurverevkin/Daime) ![Freeware][Freeware Icon]
 * [Day One](https://dayoneapp.com/) - Excellent journaling app using text, photos, video, audio, location data, and more. [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?platform=mac)
 * [Journey](https://journey.cloud/) - Journaling app with many features and with apps for every platform available. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543?platform=mac)
 * [Life Note](https://mylifenote.ai) - Journal with the greatest minds in human history. ![Freeware][Freeware Icon]
